@@ -19,4 +19,5 @@ Proyecto desarrollado para el ingreso a la Academia ForIT. [cite_start]Consiste 
 ```bash
 git clone <https://github.com/FrancoTittarelli/Challenge->
 cd challenge-forit
+
 ![App funcionando](./captura.png)
