@@ -17,5 +17,5 @@ Proyecto desarrollado para el ingreso a la Academia ForIT. [cite_start]Consiste 
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <TU_URL_DE_GITHUB_ACA>
+git clone <https://github.com/FrancoTittarelli/Challenge->
 cd challenge-forit
